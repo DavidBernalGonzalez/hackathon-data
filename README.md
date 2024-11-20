@@ -1,1 +1,1 @@
-![Alt text](./logo.jpg "Cartel Hackaton")
+![Alt text](./poster.jpg "Cartel Hackaton")
